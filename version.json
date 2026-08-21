@@ -1,14 +1,15 @@
 {
-  "version": "3.3.0",
-  "versionCode": 5,
+  "version": "3.5.0",
+  "versionCode": 7,
   "minSupportedVersion": "1.0.0",
   "forceUpdate": false,
-  "apkUrl": "https://drive.google.com/uc?export=download&id=10mV-mjTFYmDCOcgfsPfBCVjY03xdqo39",
-  "downloadPageUrl": "https://drive.google.com/file/d/10mV-mjTFYmDCOcgfsPfBCVjY03xdqo39/view?usp=sharing",
+  "apkUrl": "https://github.com/Ahmed3abed2610/sakeenah-app/releases/latest/download/app-release.apk",
+  "downloadPageUrl": "https://github.com/Ahmed3abed2610/sakeenah-app/releases/latest",
   "releaseDate": "2026-08-21",
   "releaseNotes": [
-    "🕌 شاشة أذان نظيفة بدون كلمات",
-    "🔗 إصلاح رابط التحديثات التلقائية",
-    "⚡ تحسينات عامة على الاستقرار"
+    "🕌 تشغيل الأذان وشاشة التنبيه والإشعارات بدقة في موعد الصلاة",
+    "⚡ تحميل مباشر فائق السرعة للتحديثات بدون أي شاشات انتظار",
+    "🔔 تفعيل أذونات التنبيهات الدقيقة لنظام أندرويد",
+    "📱 شاشة أذان نظيفة وهادئة وموجات صوتية متفاعلة"
   ]
 }
