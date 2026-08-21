@@ -1,16 +1,18 @@
 {
-  "version": "4.0.0",
-  "versionCode": 12,
+  "version": "4.2.0",
+  "versionCode": 14,
   "minSupportedVersion": "1.0.0",
   "forceUpdate": false,
-  "apkUrl": "https://github.com/Ahmed3abed2610/sakeenah-app/releases/latest/download/app-release.apk",
-  "downloadPageUrl": "https://github.com/Ahmed3abed2610/sakeenah-app/releases/latest",
+  "apkUrl": "https://ahmed3abed2610.github.io/sakeenah-app/download.html",
+  "downloadPageUrl": "https://ahmed3abed2610.github.io/sakeenah-app/download.html",
   "releaseDate": "2026-08-21",
   "releaseNotes": [
-    "✨ تصميم ملكي فاخر لبطاقة يوم الجمعة المباركة مع إمكانية اختيار القارئ المفضل لسورة الكهف مباشرة",
+    "🔔 محرك إشعارات الأذكار والتذكيرات اليومية مع التحكم في عدد الإشعارات وتنبيهات أذكار الصباح والمساء الموقوتة",
+    "🔋 دعم استمرار العمل والتنبيهات في الخلفية حتى في وضع سكون الهاتف العميق (Doze mode)",
+    "✨ تصميم ملكي فاخر لبطاقة يوم الجمعة المباركة مع اختيار القارئ المفضل لسورة الكهف",
     "📿 عداد تسبيح تفاعلي للصلاة على النبي ﷺ مع نغمة واهتزاز خفيف",
     "🔍 محرك بحث ذكي فائق الدقة للسور القرآنية",
-    "📖 إضافة تلاوات كاملة بصوت الشيخ ماهر المعيقلي والشيخ فارس عباد",
+    "📖 تلاوات كاملة بصوت الشيخ ماهر المعيقلي والشيخ فارس عباد",
     "🌐 صفحة التحميل الذكية download.html مع التوجيه المباشر للمتصفح"
   ]
 }
